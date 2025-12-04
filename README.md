@@ -34,7 +34,7 @@ ________________________________________
 7.	Repeat the above process for:<br>
 o	Ping from 172.16.31.3 to 172.16.31.2<br>
 o	Ping from 172.16.31.5 to 172.16.31.4<br>
-Part 2: Remote Network Communication<br>
+# Part 2: Remote Network Communication<br>
 1.	From PC-A (172.16.31.5), enter ping 10.10.10.2.<br>
 2.	Switch to Simulation Mode and repeat the ping.<br>
 3.	When the PDU appears, note the Destination MAC, Source MAC, Source IP, and Destination IP.<br>
